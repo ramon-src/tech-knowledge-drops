@@ -7,7 +7,7 @@ Nowadays we don't want to read a lot to only consume some insights of knowledge.
 In summary, this project is about sharing insights and knowledge focused on answering simple and direct questions created by myself, friends, or the community.
 
 
-## Why I've chosen NoSQL DB for this project?
+## Why did I choose a NoSQL DB for this project? 
 
 I'm working on a personal project that will crawl the internet looking for new artists and their concerts schedules every day.
 
